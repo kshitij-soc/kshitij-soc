@@ -31,7 +31,7 @@ SOC investigation workflow covering endpoint telemetry analysis, Windows Event L
 
 Includes a Python-based incident analyzer for log processing, IOC extraction, and structured incident reporting.
 
-### Web Application Security Assessment — OWASP Juice Shop
+### [Web Application Security Assessment — OWASP Juice Shop](https://github.com/kshitij-soc/web-application-security-assessment)
 
 Black-box DAST assessment using OWASP ZAP against a deliberately vulnerable web application.
 

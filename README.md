@@ -16,6 +16,7 @@ Hands-on cybersecurity experience developed through applied training, security a
 ## Featured Projects
 **[SOC Alert Monitoring & Log Correlation](https://github.com/kshitij-soc/SOC-Alert-Monitoring-Capstone)**  
 SOC investigation workflow covering endpoint telemetry analysis, Windows Event Log correlation, network traffic investigation using Wireshark, and MITRE ATT&CK mapping. Includes a Python-based incident analyzer for log processing, IOC extraction, and structured incident reporting.
+
 **[Web Application Security Assessment — OWASP Juice Shop](https://github.com/kshitij-soc/web-application-security-assessment)**  
 Black-box DAST assessment using OWASP ZAP against a deliberately vulnerable web application. Covers OWASP Top 10 testing, manual validation of SQL Injection and security header issues, risk prioritization, and remediation recommendations.
 ---

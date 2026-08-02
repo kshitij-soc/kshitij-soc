@@ -14,14 +14,25 @@ Hands-on cybersecurity experience developed through applied training, security a
 `Python` · `Kali Linux` · `Sysmon` · `Windows Event Logs` · `Wireshark` · `OWASP ZAP` · `Splunk` · `MITRE ATT&CK` · `OWASP Top 10`
 ---
 ## Featured Projects
-**[SOC Alert Monitoring & Log Correlation](https://github.com/kshitij-soc/SOC-Alert-Monitoring-Capstone)**  
-SOC investigation workflow covering endpoint telemetry analysis, Windows Event Log correlation, network traffic investigation using Wireshark, and MITRE ATT&CK mapping. Includes a Python-based incident analyzer for log processing, IOC extraction, and structured incident reporting.
-**[Web Application Security Assessment — OWASP Juice Shop](https://github.com/kshitij-soc/web-application-security-assessment)**  
-Black-box DAST assessment using OWASP ZAP against a deliberately vulnerable web application. Covers OWASP Top 10 testing, manual validation of SQL Injection and security header issues, risk prioritization, and remediation recommendations.
+
+### SOC Alert Monitoring & Log Correlation
+SOC investigation workflow covering endpoint telemetry analysis, Windows Event Log correlation, network traffic investigation using Wireshark, and MITRE ATT&CK mapping.
+
+Includes a Python-based incident analyzer for log processing, IOC extraction, and structured incident reporting.
+
+### Web Application Security Assessment — OWASP Juice Shop
+Black-box DAST assessment using OWASP ZAP against a deliberately vulnerable web application.
+
+Covers OWASP Top 10 testing, manual validation of SQL Injection and security header issues, risk prioritization, and remediation recommendations.
+
 ---
+
 ## Experience
-**Cybersecurity Specialist (On-the-Job Training) — First Quadrant Labs**
-Applying security analysis methodologies through structured cybersecurity projects and practical assessments. Specific project details and client information remain confidential under company agreement.
+
+### Cybersecurity Specialist (On-the-Job Training) — First Quadrant Labs
+Applying security analysis methodologies through structured cybersecurity projects and practical assessments.
+
+Specific project details and client information remain confidential under company agreement.
 ---
 ## Professional Development
 - Cybersecurity Program — Boston Institute of Analytics *(In Progress)*

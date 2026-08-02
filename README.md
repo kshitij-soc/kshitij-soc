@@ -63,4 +63,4 @@ Specific project details and client information remain confidential under compan
 
 ## Contact
 
-Open to connecting about cybersecurity opportunities and collaborations.
+Open to cybersecurity opportunities, security projects, and professional networking.

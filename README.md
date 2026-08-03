@@ -1,51 +1,43 @@
 # Kshitij Randhire
 
-**Cybersecurity Analyst** — Security Analysis · SOC Operations · Vulnerability Assessment · Application Security
+**SOC Analyst | Security Analysis · Vulnerability Assessment · Application Security**
 
-Hands-on cybersecurity experience developed through applied training, security assessments, and practical portfolio projects. Building skills across security operations, vulnerability assessment, and application security through structured engagements and independent research.
+Security analyst focused on SOC operations and application security, built through structured training, hands-on lab assessments, and independent project work. Experience spans log correlation and incident triage, DAST-based vulnerability assessment, and mapping observed activity to MITRE ATT&CK and OWASP frameworks.
 
 ---
 
-## Focus Areas
+## Core Competencies
 
-- Security Analysis & Alert Triage
-- Incident Investigation & Log Correlation
-- Vulnerability Assessment
-- Application Security Testing (DAST)
-- Security Automation (Python)
-- Security Frameworks — MITRE ATT&CK, OWASP Top 10
+- Security Alert Triage & Investigation
+- Log Correlation (Endpoint, Network, Authentication)
+- Vulnerability Assessment & DAST
+- MITRE ATT&CK Technique Mapping
+- OWASP Top 10 Testing & Risk Prioritization
+- Security Automation with Python
+- Incident Reporting & Remediation Planning
 
 ---
 
 ## Tools & Technologies
 
-`Python` · `Kali Linux` · `Sysmon` · `Windows Event Logs` · `Wireshark` · `OWASP ZAP` · `Splunk` · `MITRE ATT&CK` · `OWASP Top 10`
+`Python` · `Kali Linux` · `Sysmon` · `Windows Event Logs` · `Wireshark` · `OWASP ZAP` · `Splunk` · `Nmap` · `MITRE ATT&CK` · `OWASP Top 10`
 
 ---
 
 ## Featured Projects
 
 ### [SOC Alert Monitoring & Log Correlation](https://github.com/kshitij-soc/SOC-Alert-Monitoring-Capstone)
-
-SOC investigation workflow covering endpoint telemetry analysis, Windows Event Log correlation, network traffic investigation using Wireshark, and MITRE ATT&CK mapping.
-
-Includes a Python-based incident analyzer for log processing, IOC extraction, and structured incident reporting.
+End-to-end SOC investigation built in an isolated lab: endpoint telemetry via Sysmon, authentication log review via Windows Event Logs, and network traffic analysis via Wireshark, correlated into a single incident timeline. Includes a custom Python-based incident analyzer for IOC extraction, MITRE ATT&CK mapping, and risk-scored reporting.
 
 ### [Web Application Security Assessment — OWASP Juice Shop](https://github.com/kshitij-soc/web-application-security-assessment)
-
-Black-box DAST assessment using OWASP ZAP against a deliberately vulnerable web application.
-
-Covers OWASP Top 10 testing, manual validation of SQL Injection and security header issues, risk prioritization, and remediation recommendations.
+Black-box DAST engagement against OWASP Juice Shop using OWASP ZAP. Covers spidering, active scanning, and manual verification of every automated finding, including a confirmed SQL injection authentication bypass and multiple missing security header issues. Findings are prioritized by risk and mapped to OWASP Top 10.
 
 ---
 
 ## Experience
 
-### Cybersecurity Specialist (On-the-Job Training) — First Quadrant Labs
-
-Applying security analysis methodologies through structured cybersecurity projects and practical assessments.
-
-Specific project details and client information remain confidential under company agreement.
+**Cybersecurity Intern (On-the-Job Training)** — First Quadrant Labs
+Applied security analysis methodologies through structured cybersecurity projects and practical security assessments. Project and client details remain confidential under a signed non-disclosure agreement.
 
 ---
 
@@ -57,10 +49,11 @@ Specific project details and client information remain confidential under compan
 
 ## Education
 
-- Online BCA — DY Patil University *(In Progress)*
+- BCA — DY Patil University *(In Progress)*
+- Diploma in Information Technology *(Completed)*
 
 ---
 
 ## Contact
 
-Open to cybersecurity opportunities, security projects, and professional networking.
+Open to SOC Analyst and Security Analyst opportunities, security-focused projects, and professional networking.

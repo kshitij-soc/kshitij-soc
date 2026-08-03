@@ -2,18 +2,18 @@
 
 **SOC Analyst | Security Operations · Vulnerability Assessment · Application Security**
 
-Security analyst built through structured training, hands-on lab assessments, and independent project work. Experience spans correlating logs across endpoint, network, and authentication sources to investigate incidents, and running DAST-based vulnerability assessments mapped to OWASP and MITRE ATT&CK frameworks.
+Security analyst built through structured training, hands-on lab assessments, and independent project work. Experienced in correlating endpoint, network, and authentication logs to investigate security events, and performing DAST-based vulnerability assessments mapped to the OWASP Top 10 and MITRE ATT&CK frameworks.
 
 ---
 
 ## Core Competencies
 
-- Log Correlation (Endpoint, Network, Authentication)
 - Security Alert Triage & Incident Investigation
+- Log Correlation (Endpoint, Network, Authentication)
 - MITRE ATT&CK Technique Mapping
-- Security Automation with Python
 - Vulnerability Assessment & DAST
 - OWASP Top 10 Testing & Risk Prioritization
+- Security Automation with Python
 - Technical Reporting & Remediation Planning
 
 ---
@@ -27,10 +27,10 @@ Security analyst built through structured training, hands-on lab assessments, an
 ## Featured Projects
 
 ### [SOC Alert Monitoring & Log Correlation](https://github.com/kshitij-soc/SOC-Alert-Monitoring-Capstone)
-End-to-end SOC investigation built in an isolated lab: endpoint telemetry via Sysmon, authentication log review via Windows Event Logs, and network traffic analysis via Wireshark, correlated into a single incident timeline. Includes a custom Python-based incident analyzer for IOC extraction, MITRE ATT&CK mapping, and risk-scored reporting.
+End-to-end SOC investigation performed in an isolated lab environment: endpoint telemetry via Sysmon, authentication log review via Windows Event Logs, and network traffic analysis via Wireshark, correlated into a single incident timeline. Includes a custom Python incident analyzer for IOC extraction, MITRE ATT&CK mapping, and risk-scored reporting.
 
 ### [Web Application Security Assessment — OWASP Juice Shop](https://github.com/kshitij-soc/web-application-security-assessment)
-Black-box DAST engagement against OWASP Juice Shop using OWASP ZAP, with manual verification of every automated finding. Confirmed a SQL injection authentication bypass and multiple missing security header issues, prioritized by risk and mapped to OWASP Top 10 with remediation recommendations.
+Black-box DAST engagement against OWASP Juice Shop using OWASP ZAP. Includes manual validation of automated findings, confirming a SQL injection authentication bypass and multiple missing security header issues, prioritized by risk with remediation recommendations.
 
 ---
 

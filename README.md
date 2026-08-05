@@ -54,6 +54,7 @@ Applied security analysis methodologies through structured cybersecurity project
 
 ---
 
-## Contact
+## Connect With Me
 
-Open to SOC Analyst and Security Analyst roles — happy to connect for opportunities, security projects, or professional networking.
+- LinkedIn: https://www.linkedin.com/in/kshitij-randhire-750b97293/
+- GitHub: https://github.com/kshitij-soc

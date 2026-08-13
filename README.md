@@ -1,60 +1,44 @@
 # Kshitij Randhire
 
-**SOC Analyst | Security Operations · Vulnerability Assessment · Application Security**
+**Cybersecurity Analyst | SOC Operations | Application Security | Vulnerability Assessment**
 
-Security analyst built through structured training, hands-on lab assessments, and independent project work. Experienced in correlating endpoint, network, and authentication logs to investigate security events, and performing DAST-based vulnerability assessments mapped to the OWASP Top 10 and MITRE ATT&CK frameworks.
-
----
+Early-career cybersecurity professional with practical experience from structured training, controlled lab environments, on-the-job training, and independent security projects. Focused on SOC investigation, log analysis, and web application vulnerability assessment, supported by project repositories with technical documentation.
 
 ## Core Competencies
 
-- Security Alert Triage & Incident Investigation
-- Log Correlation (Endpoint, Network, Authentication)
-- MITRE ATT&CK Technique Mapping
-- Vulnerability Assessment & DAST
-- OWASP Top 10 Testing & Risk Prioritization
-- Security Automation with Python
-- Technical Reporting & Remediation Planning
-
----
+- Security Operations & Alert Investigation
+- Log Analysis (Windows Event Logs, Sysmon)
+- IOC Analysis & Incident Timeline Reconstruction
+- MITRE ATT&CK Mapping
+- Web Application Security Testing (Black-box DAST)
+- OWASP Top 10 Methodology
+- Manual Vulnerability Validation
+- Technical Security Reporting & Remediation Recommendations
 
 ## Tools & Technologies
 
-`Python` · `Kali Linux` · `Sysmon` · `Windows Event Logs` · `Wireshark` · `Nmap` · `OWASP ZAP` · `MITRE ATT&CK` · `OWASP Top 10`
-
----
+`Python` · `Kali Linux` · `Windows Event Logs` · `Sysmon` · `Wireshark` · `Nmap` · `OWASP ZAP` · `Docker` · `VMware`
 
 ## Featured Projects
 
-### [SOC Alert Monitoring & Log Correlation](https://github.com/kshitij-soc/SOC-Alert-Monitoring-Capstone)
-End-to-end SOC investigation performed in an isolated lab environment: endpoint telemetry via Sysmon, authentication log review via Windows Event Logs, and network traffic analysis via Wireshark, correlated into a single incident timeline. Includes a custom Python incident analyzer for IOC extraction, MITRE ATT&CK mapping, and risk-scored reporting.
+**[SOC Alert Monitoring & Log Correlation](https://github.com/kshitij-soc/SOC-Alert-Monitoring-Capstone)**
+SOC investigation built in a virtual lab (Windows + Kali Linux), using a Python-based incident analyzer to process Windows Event Logs and Sysmon telemetry. Includes IOC analysis, chronological incident timeline reconstruction, MITRE ATT&CK mapping, and supporting network analysis with Wireshark.
 
-### [Web Application Security Assessment — OWASP Juice Shop](https://github.com/kshitij-soc/web-application-security-assessment)
-Black-box DAST engagement against OWASP Juice Shop using OWASP ZAP. Includes manual validation of automated findings, confirming a SQL injection authentication bypass and multiple missing security header issues, prioritized by risk with remediation recommendations.
-
----
+**[Web Application Security Assessment](https://github.com/kshitij-soc/web-application-security-assessment)**
+Black-box DAST assessment of OWASP Juice Shop (Docker) using OWASP ZAP, with manual validation of automated findings against the OWASP Top 10. Includes documented SQL injection testing, a security header review, and a risk-prioritized report with remediation recommendations.
 
 ## Experience
 
-**Cybersecurity Intern (On-the-Job Training)** — First Quadrant Labs
-Applied security analysis methodologies through structured cybersecurity projects, practical security assessments, and technical documentation. Project and client details remain confidential under a signed non-disclosure agreement.
-
----
-
-## Professional Development
-
-- Cybersecurity Program — Boston Institute of Analytics *(In Progress)*
-
----
+**Cybersecurity Specialist — On-the-Job Training**
+*First Quadrant Labs · Jul 2026 – Present*
+Conducting controlled cybersecurity assessments and web application security testing, including black-box DAST, manual validation of findings, and OWASP Top 10-based methodology. Preparing technical findings, impact analysis, and remediation recommendations.
 
 ## Education
 
-- BCA — DY Patil University *(In Progress)*
-- Diploma in Information Technology *(Completed)*
+- **Bachelor of Computer Applications (BCA)** — DY Patil University *(In Progress, Expected 2029)*
+- **Diploma in Information Technology** — Navjeevan Polytechnic *(Completed, 79.07%)*
 
----
+## Connect
 
-## Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/kshitij-randhire-750b97293/
-- GitHub: https://github.com/kshitij-soc
+- LinkedIn: [linkedin.com/in/kshitij-randhire-750b97293](https://www.linkedin.com/in/kshitij-randhire-750b97293/)
+- GitHub: [github.com/kshitij-soc](https://github.com/kshitij-soc)

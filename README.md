@@ -30,7 +30,7 @@ SOC investigation built in a virtual lab (Windows + Kali Linux). Used a Python-b
 
 Black-box DAST assessment of OWASP Juice Shop (Docker) using OWASP ZAP. Automated findings were manually validated against the OWASP Top 10, including documented SQL injection testing and a security header review. Delivered as a risk-prioritized report with remediation recommendations.
 
-[**Open_Redirect_Burp_Assessment**](https://github.com/kshitij-soc/Open_Redirect_Burp_Assessment)
+[**Open_Redirect_Burp_Assessment**](https://github.com/kshitij-soc/DOM-Based-Open-Redirect-Burp-Assessment)
 
 Manual web application security assessment of an authorized PortSwigger Web Security Academy training lab. Used Burp Suite to capture and manipulate HTTP requests, identified and validated the `url` parameter on the `/post` endpoint, and confirmed the DOM-based open redirect through browser execution. Documented CWE-601 mapping, evidence, qualitative risk assessment, and remediation recommendations.
 

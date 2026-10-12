@@ -2,7 +2,7 @@
 
 **Cybersecurity Analyst — Security Operations | Vulnerability Assessment | Application Security**
 
-Cybersecurity professional with hands-on experience across security monitoring, incident investigation, vulnerability assessment, and application security testing. Experience developed through hands-on lab work, an active on-the-job training placement, and documented project repositories covering log analysis, incident reconstruction, DAST-based vulnerability assessment, and manual web application security testing.
+Cybersecurity professional with hands-on experience across security monitoring, incident investigation, vulnerability assessment, and application security testing. Experience developed through hands-on lab work, an active on-the-job training placement, and documented project repositories covering log analysis, incident reconstruction, blockchain transaction tracing, DAST-based vulnerability assessment, and manual web application security testing.
 
 ### Core Cybersecurity Areas
 
@@ -13,6 +13,10 @@ Alert investigation, log analysis (Windows Event Logs, Sysmon), IOC analysis, in
 **Vulnerability Assessment & Application Security**
 
 Black-box DAST, OWASP Top 10 methodology, manual vulnerability validation, SQL injection testing, DOM-based open redirect testing, security header review, risk-prioritized reporting.
+
+**Digital Forensics & Blockchain Investigation**
+
+Public blockchain transaction tracing, evidence handling (SHA-256 hashing, evidence register, chain of custody), reproducible analysis, confidence-labelled findings that separate confirmed evidence from interpretation.
 
 **Network Analysis**
 
@@ -33,6 +37,10 @@ Black-box DAST assessment of OWASP Juice Shop (Docker) using OWASP ZAP. Automate
 [**Open_Redirect_Burp_Assessment**](https://github.com/kshitij-soc/DOM-Based-Open-Redirect-Burp-Assessment)
 
 Manual web application security assessment of an authorized PortSwigger Web Security Academy training lab. Used Burp Suite to capture and manipulate HTTP requests, identified and validated the `url` parameter on the `/post` endpoint, and confirmed the DOM-based open redirect through browser execution. Documented CWE-601 mapping, evidence, qualitative risk assessment, and remediation recommendations.
+
+[**Coincheck NEM Theft Investigation (2018)**](https://github.com/kshitij-soc/coincheck-hack-investigation)
+
+Independent, reproducible blockchain investigation of the January 2018 Coincheck exchange hack, built from public statements and data I collected from a public NEM node. Traced 526,300,010 XEM across 11 transfers out of the exchange wallet and 523,000,000 XEM onward to eight addresses, reconstructed the timeline, and analysed the single-signer hot-wallet weakness. Delivered an incident report, executive summary, mitigation plan, presentation deck, and an evidence portfolio with SHA-256 hashes, chain of custody, and a finding-to-evidence matrix. Findings are labelled Confirmed, Strongly supported, Interpretation, or Unknown, and a data-processing error found during self-review was documented and corrected.
 
 ### Current Training
 

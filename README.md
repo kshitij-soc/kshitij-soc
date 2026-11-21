@@ -56,6 +56,9 @@ Independent, reproducible blockchain investigation of the January 2018 Coincheck
 ### 🔐 [SecureLink VPN Gateway](https://github.com/kshitij-soc/SECURELINK-VPN-GATEWAY)
 VMware lab building a secure VPN for remote access: strongSwan IKEv2/IPsec site-to-site and OpenVPN client-to-site with TLS 1.3, AES-256-GCM, certificate authentication and TOTP MFA. Added iptables access control, certificate revocation, centralized rsyslog logging, iperf3 performance testing and a Windows client test with Wireshark traffic analysis. Delivered as six documents with a traceability matrix and 38 evidence screenshots, with limitations stated openly.
 
+### 🔒 [Secure Remote Access Solution](https://github.com/kshitij-soc/Secure-Remote-Access-Solution)
+VMware lab designing and testing a full remote access platform: OpenVPN and IPsec IKEv2 with TLS 1.3 and AES-256, certificate authentication with revocation, OpenLDAP and TOTP MFA, iptables-based zero trust segmentation, hardened RDP and encrypted SMB, endpoint compliance checks, and Wazuh monitoring with a custom alert rule. Ran 44 tests and documented 16 risk-scored findings with a remediation roadmap. Delivered as 10 documents, 96 evidence screenshots and a security awareness training deck, with open limitations stated.
+
 ## 📈 Current Training
 
 **Cybersecurity Specialist, On-the-Job Training** · *First Quadrant Labs · Jul 2026 to Present*
